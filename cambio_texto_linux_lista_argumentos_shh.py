@@ -1,4 +1,4 @@
-# se modifica esta parte añadiendo comentario para probar github
+# se modifica esta parte anadiendo comentario para probar github
 
 #!/usr/bin/python
 # operaciones con directorios
